@@ -1,0 +1,57 @@
+<!doctype html>
+	<html>
+			<head>
+					<link rel="stylesheet"href="css/style.css">
+					<title>Design MockUp </title>
+			</head>
+			<body>
+					<table>
+						<tr>
+								<td>
+									<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Fafrobabymovement.com%2F&ei=SVGUVa7gAdGiyATn76OACQ&psig=AFQjCNEf3H47RHHRuFxhPN4jOqf7nGPnkw&ust=1435869884739027"/>
+								</td>
+								<td>
+								</td>
+								<td>
+										<h1>Brittany Tinsley</h1>
+										<h4>Front End Ninja</h4>					
+								</td>
+						</tr>
+						<tr>
+								<td>
+									<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&ved=0CAcQjRw&url=http%3A%2F%2Fforum.grasscity.com%2Fgeneral%2F528251-what-do-you-think-poster-above-you-looks-like.html%2Fpage-217&ei=u1OUVZiHMdH3yQTo9IHQCQ&psig=AFQjCNFkyJiiqfa02cgJFKvooxPuEl19mg&ust=1435870524214431"/>
+								</td>
+						</tr>
+						<tr>
+								<td>
+									<h1>Featured Work</h1>
+								</td>
+						</tr>
+						<tr>
+								<td>
+									<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Fcultureonabudget.blogspot.com%2F2009_10_01_archive.html&ei=nVWUVanhHoadgwSxo4jwCQ&psig=AFQjCNFkyJiiqfa02cgJFKvooxPuEl19mg&ust=1435870524214431"/>
+								</td>
+								<td>
+									<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3DnFsGA4GwwOo&ei=vVWUVc3OB4akNouzvKgJ&psig=AFQjCNFkyJiiqfa02cgJFKvooxPuEl19mg&ust=1435870524214431"/>
+								</td>
+								<td>
+									<img src="https://www.google.com/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0CAcQjRw&url=http%3A%2F%2Fwww.kongregate.com%2Fforums%2F2-off-topic%2Ftopics%2F199438%3Fpage%3D2&ei=2FWUVfhzybqCBOjuicAH&psig=AFQjCNFkyJiiqfa02cgJFKvooxPuEl19mg&ust=1435870524214431"/>
+								</td>
+						</tr>
+						<tr>
+								<td>
+									<h1>APPIFY</h1>
+									<a href="https://www.facebook.com/TuffNPuff">Facebook</a>
+								</td>
+								<td>
+									<h1>SUNFLOWER</h1>
+									<a href="https://www.linkedin.com/in/brittanytinsley">Linkedin</a>
+								</td>
+								<td>
+									<h1>BOKEH</h1>
+									<a href="https://www.udacity.com">Udacity</a>
+								</td>
+						</tr>
+					</table>
+			</body>
+	</html>
