@@ -1,38 +1,7 @@
-table {
-	margin: auto;
-	width: 60%;
+.row {
+	margin:auto;
 }
-img {
-	max-width: 100%;
-	height: auto;
-	width: auto;
-}
-.feature{
-	font-family: Verdana, serif;
-	font-size: 1.2em;
+h1 {
 	text-align: left;
-	color:grey;
-	border-bottom: 3px solid grey;
-	border-collapse: collapse;
-}
-.big {
-	margin: auto;
-	width:300%;
-	height: 100%;
-
-}
-.Huey {
-	margin: auto;
-}
-.header {
-	font-family: Verdana;
-	text-align: right;
-	border-bottom: 3px solid grey;
-	font-size: 1.2em
-
-}
-.name{
-	text-align: center;
-	font-size: 1.2em;
-	font-family: cursive;
+	color: blue;
 }
